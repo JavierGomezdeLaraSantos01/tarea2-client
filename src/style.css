@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.contenedor__imagenes{
+    width: 100%;
+    background-color: aqua;
+  }
+  
+  .movil1 {
+   margin-left: 68%;
+    right: 0;
+  }
+  .contenedor__texto {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
+    width: 30%;
+    margin-left: 7rem;
+    transform: translatey(-300%); /* Centrar horizontalmente */
+  }
+
+
+  .simbolomovil{
+
+    margin-left: 20%;
+    transform: translateY(130%);
+  }
+
+  .botonapple{
+
+    margin-left: 15%;
+    transform: translateY(-350%);
+  }
+  
